@@ -186,7 +186,7 @@ pyrightconfig.json
 
 
 # storage
-result/
+results/
 cache/
 *.json
 *.jsonl
