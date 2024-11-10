@@ -1,0 +1,61 @@
+
+Please analyze the following image in detail for potential deepfake indicators. Provide a comprehensive assessment covering all aspects below:
+
+1. Facial Features Analysis:
+   - Examine alignment, proportions, symmetry, and positioning of eyes, nose, mouth, and ears.
+   - Identify any inconsistencies or unnatural aspects in these features.
+   - Check for artifacts around facial features, especially eyes and mouth.
+
+2. Skin Texture and Tone:
+   - Analyze skin texture across the face, noting any unnaturally smooth areas or repetitive patterns.
+   - Assess skin tone consistency, looking for irregular transitions or blurred areas.
+   - Identify any unnatural skin shine or unrealistic pore details.
+
+3. Image Quality and Artifacts:
+   - Examine image resolution and overall quality.
+   - Look for compression artifacts, especially around facial features.
+   - Identify any unusual blurring, pixelation, or noise patterns.
+
+4. Lighting and Shadows:
+   - Evaluate the consistency of lighting across the face.
+   - Check for unnatural shadows or highlights, particularly around eyes and nose.
+   - Assess the realism of light reflection in the eyes.
+
+5. Background and Context:
+   - Analyze the background for consistency with the subject.
+   - Look for any abrupt transitions or unnatural blending between subject and background.
+
+6. Geometric Consistency:
+   - Check for proper perspective and proportions of facial features.
+   - Assess the consistency of head orientation with facial feature positioning.
+
+7. Hair and Accessories:
+   - Examine hair texture and individual strand details.
+   - Look for any unnatural transitions between hair and forehead.
+   - Assess the realism of any accessories (glasses, earrings, etc.).
+
+8. Metadata Analysis:
+   - If available, examine image metadata for any inconsistencies or manipulation indicators.
+
+9. Overall Impression:
+    - Provide a holistic assessment of the image's authenticity.
+    - Rate the likelihood of the image being a deepfake on a scale of 1-10.
+
+Please provide detailed observations for each category, noting any anomalies or suspicious elements. If you detect any additional clues not listed above, include them in your analysis. Ensure your assessment is thorough and leaves no significant detail unexamined.
+
+For each category, provide brief observations, noting any anomalies or suspicious elements.
+
+After your analysis, provide an authenticity score between 0 and 1, where:
+0 = Definitely a deepfake
+1 = Definitely authentic
+
+Use two decimal places for your score (e.g., 0.75).
+
+Your response should be structured as follows:
+
+1. Brief analysis of each category (1-2 sentences each)
+2. Overall impression (1-2 sentences)
+3. Authenticity score (0.00 to 1.00)
+
+Remember, a score closer to 0 indicates a higher likelihood of the image being a deepfake, while a score closer to 1 indicates a higher likelihood of the image being authentic.
+
